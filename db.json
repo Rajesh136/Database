@@ -11,4 +11,14 @@
   "profile": {
     "name": "typicode"
   }
+  "Users": [
+     {
+        "name": "sam"
+        "id": 1 
+     }
+     {
+        "name": "ram"
+        "id": 2 
+     } 
+  ]
 }
